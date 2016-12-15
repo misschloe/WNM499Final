@@ -1,0 +1,28 @@
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway:800');
+// @import url('https://fonts.googleapis.com/css?family=Lato:400,900');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700');
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 100%;
+}
